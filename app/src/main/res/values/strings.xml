@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Makan Malam Osas</string>
+    <string name="button_eatbus">Eatbus</string>
+    <string name="button_abnormal">Abnormal</string>
+    <string name="editText_namaMakanan">Input Nama Makanan</string>
+    <string name="editText_jumlahPorsi">Input Jumlah Porsi</string>
+    <string name="header1">Makan Malam</string>
+    <string name="header2">dengan Milea</string>
+</resources>
